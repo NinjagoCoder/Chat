@@ -3,6 +3,9 @@ background-color: transparent;
 
 }
 ul#space{
+width:250px;
+height:max-content;
+    background-color:white
 position: relative;
 left:100px;
 }
